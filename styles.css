@@ -1,3 +1,6 @@
+body {
+    background-color: lightgrey;
+}
 .flag {
     display: flex;
     width: 1200px;

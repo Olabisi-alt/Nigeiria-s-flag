@@ -1,0 +1,24 @@
+.flag {
+    display: flex;
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.green {
+    width: 400px;
+    height: 100%;
+    background-color: green;
+}
+
+.white {
+    width: 400px;
+    height: 100%;
+    background-color: white;
+}  
+
+p {
+    color: green;
+    font-size: 80px;
+    text-align: center;
+}
